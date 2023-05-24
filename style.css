@@ -1,0 +1,52 @@
+.google_lensimg
+{
+  height:50px;
+}
+
+p{
+    color:red;
+    letter-spacing: 2px;
+}
+
+.mobilenet
+{
+    letter-spacing: 2px;
+}
+
+.google_lens
+{
+    letter-spacing: 2px;
+}
+
+img{
+ height: 180;
+ margin-top: 10px;
+ margin-bottom: 10;
+ border-radius: 10px;
+}
+
+.white1
+{
+  color:rgb(255, 254, 254);
+  font-weight: bold;
+}
+
+.test_image_and_result,.test_image_and_result1,.test_image_and_result2
+{
+    margin-top: 15px;
+    background-color:lightslategray;
+    border-radius:10px;
+    box-shadow: 2px 2px 2px gray;
+    margin-bottom:15px;
+}
+
+.first,.second
+{
+    background-color:white;
+    border-radius:10px;
+}
+
+.google_lensimg
+{
+    height: 40px;
+}
